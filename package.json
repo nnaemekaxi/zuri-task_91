@@ -1,0 +1,11 @@
+{
+  "name": "task91",
+  "version": "1.0.0",
+  "description": "a server and route testing site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nnaemeka Elom",
+  "license": "ISC"
+}
